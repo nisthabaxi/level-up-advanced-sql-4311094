@@ -1,0 +1,6 @@
+employeeId,firstName,lastName,title,startDate,managerId
+1,Wilie,Harling,CEO,2020-12-11 01:26:43,NULL
+2,Dulcy,Emberton,Engineer,2021-01-06 11:08:08,8
+3,Lorant,Barlow,Sales Person,2020-10-26 18:50:54,8
+4,Frank,Linskill,Engineer,2020-12-14 04:54:23,8
+5,Salvatore,Humbee,Sales Person,2021-11-28 00:57:36,8
